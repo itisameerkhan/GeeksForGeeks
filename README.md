@@ -1,3 +1,5 @@
+![GeeksForGeeks](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png)
+
 # GeeksforGeeks Problem Solutions
 
 Welcome to the "GeeksforGeeks Problem Solutions" repository, your go-to resource for tackling GeeksforGeeks problems using various programming languages including C, C++, Java, JavaScript, MySQL, and Python.
