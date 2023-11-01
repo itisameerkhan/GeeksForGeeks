@@ -32,10 +32,6 @@ int main() {
 }
 
 /*
-A[] = {10, 5, 2, 7, 1, 9}
-K = 15
-Output : 4
-
 Space Complexity -> O(N Log(N)) {for map<int,int>}
 Time Complexity -> O(n)
 */
