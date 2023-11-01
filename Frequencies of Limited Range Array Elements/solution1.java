@@ -33,5 +33,6 @@ public class solution1 {
         int P = sc.nextInt();
         Solution.frequencyCount(arr, N, P);
         for(int i: arr) System.out.print(arr[i] + " ");
+        sc.close();
     }
 }
