@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-class Solution{ // *FAILED CODE*
+class Solution{ 
 public:
 	bool checkTriplet(int arr[], int n) {
         unordered_map<int,int> map;
