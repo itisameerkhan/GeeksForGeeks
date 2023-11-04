@@ -27,11 +27,3 @@ int main()
     if(sol.checkTriplet(arr,n)) cout<<"TRUE";
     else cout<<"FALSE";
 }
-
-/*
-3 2 4 6 5 
-
-9 4 16 36 25
-
-4 9 16 25 36 
-*/
