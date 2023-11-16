@@ -10,7 +10,7 @@ class Solution
        for(int i=0;i<S.size();i++) map[S[i]]++;
        for(int i=0;i<S.size();i++) if(map[S[i]] == 1) return S[i];
        return '$';
-    }
+    } 
 };
 int main() {
     string S = "hello";
