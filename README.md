@@ -45,6 +45,6 @@ We welcome contributions from the coding community. If you'd like to contribute 
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+No License
 
 Happy coding and solving GeeksforGeeks problems!
